@@ -1,0 +1,17 @@
+{
+  "name": "generator-lofty",
+  "version": "0.1.0",
+  "description": "",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "scripts": {
+    "build": "npm link; yo lofty;"
+  },
+  "dependencies": {
+    "yeoman-generator": "^1.0.0"
+  }
+}
