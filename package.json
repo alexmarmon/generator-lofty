@@ -12,6 +12,7 @@
     "build": "npm link; yo lofty;"
   },
   "dependencies": {
+    "chalk": "^1.1.3",
     "yeoman-generator": "^1.0.0"
   }
 }
